@@ -37,10 +37,23 @@ class Retriever:
         self.tfidf = TfidfVectorizer(tokenizer=tokens, lowercase=False, ngram_range=(1, 2), sublinear_tf=True, token_pattern=None)
         self.M = self.tfidf.fit_transform(texts)
         self.vocab = set(self.bm25.idf)
+        self.dense = None
+        try:  # optional dense embeddings (pip install sentence-transformers)
+            from sentence_transformers import SentenceTransformer
+            self.st = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+            self.E = self.st.encode(texts, normalize_embeddings=True, show_progress_bar=False); self.dense = True
+        except Exception:
+            self.dense = None
     def _rank(self, s): return list(np.argsort(-s))
     def search(self, q, k=5, mode="hybrid"):
         sb = self.bm25.scores(q); st = (self.M @ self.tfidf.transform([q]).T).toarray().ravel()
-        if mode == "bm25": s = sb
+        sd = (self.E @ self.st.encode([q], normalize_embeddings=True)[0]) if self.dense else None
+        if mode == "dense": s = sd
+        elif mode == "hybrid_dense":
+            s = np.zeros(len(self.docs))
+            for sc in (sb, st, sd):
+                for r, i in enumerate(self._rank(sc)): s[i] += 1 / (60 + r)
+        elif mode == "bm25": s = sb
         elif mode == "tfidf": s = st
         else:
             s = np.zeros(len(self.docs))

@@ -43,7 +43,7 @@ for q in ["Is the polyamidase in maxbin.002 experimentally validated?", "What is
 rows = []
 for task, q, gold in Q:
     if task in ("id_lookup", "description_search", "domain_search"):
-        for mode in ("bm25", "tfidf", "hybrid"):
+        for mode in ("bm25", "tfidf", "hybrid", "dense", "hybrid_dense"):
             res = [d["id"] for d, _, _ in R.search(q, k=5, mode=mode)]
             rank = next((r + 1 for r, x in enumerate(res) if x in gold), None)
             rows.append(dict(task=task, system=mode, hit1=rank == 1, hit3=bool(rank and rank <= 3), rr=1 / rank if rank else 0))

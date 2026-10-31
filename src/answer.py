@@ -35,7 +35,8 @@ def answer(q, R: Retriever, k=3, min_bm25=2.0):
         n, d = tools.count(f)
         ids = list(d.sort_values("evalue").id)
         return dict(route="tool_list", ids=ids, text=f"{n} proteins match {f}: " + "; ".join(card(i) for i in ids[:5]) + (" ..." if n > 5 else ""))
-    hits = R.search(q, k=k)
+    mode = "hybrid_dense" if R.dense and not ID_RE.search(q) else "hybrid"  # exact IDs need lexical match
+    hits = R.search(q, k=k, mode=mode)
     if not hits or hits[0][2] < min_bm25:
         return dict(route="refuse", ids=[], text=f"{NA} No indexed document matches this question well.")
     ids = [d["id"] for d, _, _ in hits if d["kind"] == "protein"]
