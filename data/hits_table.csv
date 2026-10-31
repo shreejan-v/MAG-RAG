@@ -1,0 +1,77 @@
+id,mag,tier,enzyme,polymer,organism,accession,pident,qcov,evalue,pfam,interpro
+GFMLDHDN_02700,bin.3,Tier 2,Esterase,PLA,Uncultured bacterium,AGT96414.1,35.6,97.2,1.73e-68,PF00144 Beta-lactamase,IPR001466 Beta-lactamase-related; IPR012338 Beta-lactamase/transpeptidase-like; IPR052907 Beta-lactamase/esterase domain-containing protein
+GFMLDHDN_02682,bin.3,Tier 3,Polyamidase,Nylon,Nocardia farcinica,WP_011209364.1,28.6,98.6,1.3999999999999998e-41,,
+GFMLDHDN_02520,bin.3,Tier 3,Hydrolase,Nylon,Paenarthrobacter ureafaciens,P13398,26.4,93.3,6.92e-31,,
+GFMLDHDN_02313,bin.3,Tier 3,Esterase,PLA,Uncultured bacterium,AHG30919.1,29.2,45.0,1.0900000000000001e-29,,
+GFMLDHDN_00066,bin.3,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,32.9,98.0,1.26e-33,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR011284 3-oxoacyl-(acyl-carrier-protein) reductase; IPR020904 Short-chain dehydrogenase/reductase, conserve"
+GFMLDHDN_02412,bin.3,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,30.0,72.9,1.6400000000000004e-21,PF00106 short chain dehydrogenase,IPR002347 Short-chain dehydrogenase/reductase SDR; IPR036291 NAD(P)-binding domain superfamily
+GFMLDHDN_00595,bin.3,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,24.8,96.2,4.44e-19,,
+GFMLDHDN_00872,bin.3,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,31.8,80.3,1.34e-19,PF00106 short chain dehydrogenase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+GFMLDHDN_01598,bin.3,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,25.3,90.0,1.23e-18,,
+GFMLDHDN_02003,bin.3,Tier 3,PETase,PET,Uncultured bacterium,,25.1,76.8,1.32e-11,,
+GFMLDHDN_01102,bin.3,Tier 3,Oxidoreductase,PU_PBAT,Bacillus velezensis,UOM43036.1,29.9,31.3,6.6e-10,,
+GFMLDHDN_02734,bin.3,Tier 3,PHB depolymerase,PHB_PHA,Bacillus megaterium,BAF35850.1,27.6,30.7,2.81e-07,,
+GFMLDHDN_02921,bin.3,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,28.1,32.5,2.68e-07,,
+GFMLDHDN_01720,bin.3,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,24.3,96.5,1.41e-06,,
+GFMLDHDN_02663,bin.3,Tier 3,PHB depolymerase,PHB_PHA,Schlegelella sp.,AAT09963.1,31.5,31.1,3.66e-06,,
+GFMLDHDN_00242,bin.3,Tier 3,Oxidoreductase,PU_PBAT,Bacillus velezensis,UOM43036.1,25.9,30.1,9.68e-06,,
+GFMLDHDN_00879,bin.3,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,28.4,69.8,1.93e-06,,
+ADACJJMH_00944,maxbin.002,Tier 2,PEG aldehyde dehydrogenase,PEG,Streptomyces sp.,BAF98449.1,34.5,94.0,3.73e-74,PF00171 Aldehyde dehydrogenase family,"IPR015590 Aldehyde dehydrogenase domain; IPR016160 Aldehyde dehydrogenase, cysteine active site; IPR016161 Aldehyde/histidinol dehydrogenase; IPR016162 Aldehyde"
+ADACJJMH_03337,maxbin.002,Tier 1,Hydrolase,PLA_PHBV_PCL_PBSA_PES_PHA,Alcanivorax borkumensis,Q0VLQ1,44.2,96.4,6.420000000000001e-73,PF00561 alpha/beta hydrolase fold,IPR000073 Alpha/beta hydrolase fold-1; IPR029058 Alpha/Beta hydrolase fold; IPR050471 AB hydrolase
+ADACJJMH_03961,maxbin.002,Tier 2,Protease,PLA,Bacillus licheniformis,P00780,36.6,78.7,3.49e-50,PF00082 Subtilase family,"IPR000209 Peptidase S8/S53 domain; IPR015500 Peptidase S8, subtilisin-related; IPR022398 Peptidase S8, subtilisin, His-active site; IPR023827 Peptidase S8, subt"
+ADACJJMH_00909,maxbin.002,Tier 2,PEG aldehyde dehydrogenase,PEG,Streptomyces sp.,BAF98449.1,34.8,96.5,1.4899999999999999e-46,PF00171 Aldehyde dehydrogenase family,"IPR015590 Aldehyde dehydrogenase domain; IPR016160 Aldehyde dehydrogenase, cysteine active site; IPR016161 Aldehyde/histidinol dehydrogenase; IPR016162 Aldehyde"
+ADACJJMH_00542,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,37.4,98.0,5.82e-47,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily; I"
+ADACJJMH_02004,maxbin.002,Tier 1,Copper oxidase,PE,Rhodococcus opacus,AII11221,58.6,98.0,2.37e-42,PF07731 Multicopper oxidase,"IPR008972 Cupredoxin; IPR011706 Multicopper oxidase-like, C-terminal"
+ADACJJMH_00858,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,36.5,96.1,3.92e-40,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_00789,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,32.1,98.8,2.1499999999999998e-38,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_00589,maxbin.002,Tier 3,Esterase,PLA,Uncultured bacterium,AGT96414.1,28.0,88.0,6.95e-36,,
+ADACJJMH_00377,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,34.1,98.0,5.47e-35,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily; I"
+ADACJJMH_00600,maxbin.002,Tier 2,Protease,PLA,Bacillus licheniformis,P00780,30.7,70.6,4.58e-32,PF00082 Subtilase family,"IPR000209 Peptidase S8/S53 domain; IPR015500 Peptidase S8, subtilisin-related; IPR022398 Peptidase S8, subtilisin, His-active site; IPR023827 Peptidase S8, subt"
+ADACJJMH_02811,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,33.1,97.6,3.17e-33,PF13561 Enoyl-(Acyl carrier protein) reductase,IPR002347 Short-chain dehydrogenase/reductase SDR; IPR036291 NAD(P)-binding domain superfamily
+ADACJJMH_04974,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,32.1,94.7,3.1900000000000003e-31,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_04734,maxbin.002,Tier 3,Oxidoreductase,PU_PBAT,Bacillus velezensis,UOM43036.1,27.5,89.7,8.84e-28,,
+ADACJJMH_01457,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,30.6,96.2,2.4300000000000002e-29,PF13561 Enoyl-(Acyl carrier protein) reductase,IPR002347 Short-chain dehydrogenase/reductase SDR; IPR036291 NAD(P)-binding domain superfamily; IPR050259 Short-chain dehydrogenases/reductases
+ADACJJMH_01689,maxbin.002,Tier 2,Nylon hydrolase,Nylon,Paenarthrobacter ureafaciens,Q1EPR4,33.5,90.3,2.48e-26,PF03576 Peptidase family S58,"IPR005321 Peptidase S58, DmpA; IPR016117 ArgJ-like domain superfamily"
+ADACJJMH_05259,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,33.3,97.2,2.15e-26,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily; I"
+ADACJJMH_00479,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,31.8,96.1,2.25e-26,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily; I"
+ADACJJMH_05148,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,32.2,98.1,6.47e-25,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily; I"
+ADACJJMH_01503,maxbin.002,Tier 2,PEG aldehyde dehydrogenase,PEG,Streptomyces sp.,BAF98449.1,37.8,87.0,7.43e-25,PF00171 Aldehyde dehydrogenase family,"IPR015590 Aldehyde dehydrogenase domain; IPR016161 Aldehyde/histidinol dehydrogenase; IPR016163 Aldehyde dehydrogenase, C-terminal"
+ADACJJMH_00155,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,32.0,81.3,8.48e-25,PF00106 short chain dehydrogenase,IPR002347 Short-chain dehydrogenase/reductase SDR; IPR036291 NAD(P)-binding domain superfamily
+ADACJJMH_04335,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,30.3,95.6,4.35e-24,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_01900,maxbin.002,Tier 3,Carboxylesterase,PBAT,Uncultured bacterium,AOR05750.1,29.1,70.1,1.3300000000000001e-21,,
+ADACJJMH_01622,maxbin.002,Tier 1,Polyamidase,Nylon,Nocardia farcinica,WP_011209364.1,67.9,93.3,5.29e-23,PF01425 Amidase,IPR023631 Amidase signature domain; IPR036928 Amidase signature (AS) superfamily
+ADACJJMH_01290,maxbin.002,Tier 2,Hydrolase,Nylon,Paenarthrobacter ureafaciens,P13398,35.8,70.7,2.51e-20,PF01425 Amidase,IPR000120 Amidase; IPR023631 Amidase signature domain; IPR036928 Amidase signature (AS) superfamily
+ADACJJMH_03713,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,31.3,70.2,4.71e-21,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_02988,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,30.2,82.4,2.91e-20,PF00106 short chain dehydrogenase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily; I"
+ADACJJMH_04478,maxbin.002,Tier 2,PETase,PET,Uncultured bacterium,,30.7,68.5,2.79e-19,"PF00326 Prolyl oligopeptidase family; PF12146 Serine aminopeptidase, S33","IPR001375 Peptidase S9, prolyl oligopeptidase, catalytic domain; IPR022742 Alpha/beta hydrolase domain-containing protein 17C-like; IPR029058 Alpha/Beta hydrola"
+ADACJJMH_00446,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,28.2,83.2,7.74e-20,,
+ADACJJMH_05037,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,27.0,94.2,4.21e-19,,
+ADACJJMH_01308,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,29.9,80.9,9.29e-19,,
+ADACJJMH_02874,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,31.8,98.1,8.32e-19,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_04058,maxbin.002,Tier 3,Esterase,PLA_PCL_PBSA,Alcanivorax borkumensis,CAL16645.1,24.7,89.9,2.58e-17,,
+ADACJJMH_04448,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,27.7,98.5,3.19e-17,,
+ADACJJMH_05035,maxbin.002,Tier 3,Polyamidase,Nylon,Nocardia farcinica,WP_011209364.1,29.0,96.6,4.51e-16,,
+ADACJJMH_03827,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,29.8,98.1,8.52e-18,,
+ADACJJMH_04181,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,26.7,94.7,1.39e-16,,
+ADACJJMH_00024,maxbin.002,Tier 3,Esterase,PLA_PCL_PBSA,Alcanivorax borkumensis,CAL16645.1,25.8,82.2,1.62e-15,,
+ADACJJMH_01515,maxbin.002,Tier 3,Carboxylesterase,PBAT,Uncultured bacterium,AOR05748.1,23.7,86.7,1.45e-14,,
+ADACJJMH_04267,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,29.1,62.4,1.74e-14,,
+ADACJJMH_03442,maxbin.002,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,24.1,92.4,3.03e-14,,
+ADACJJMH_00480,maxbin.002,Tier 3,Esterase,PLA_PCL_PBSA,Alcanivorax borkumensis,CAL16645.1,27.5,89.8,6.19e-14,,
+ADACJJMH_01278,maxbin.002,Tier 3,PETase,PET,Uncultured bacterium,,24.3,69.3,1.41e-13,,
+ADACJJMH_04895,maxbin.002,Tier 2,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,31.1,100.0,3.84e-15,PF13561 Enoyl-(Acyl carrier protein) reductase,"IPR002347 Short-chain dehydrogenase/reductase SDR; IPR020904 Short-chain dehydrogenase/reductase, conserved site; IPR036291 NAD(P)-binding domain superfamily"
+ADACJJMH_00953,maxbin.002,Tier 3,PETase,PET,Uncultured bacterium,,23.0,60.0,2.45e-11,,
+ADACJJMH_05084,maxbin.002,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,35.0,47.8,8.08e-12,,
+ADACJJMH_02597,maxbin.002,Tier 3,Hydrolase,PCL_PET_PU,Amycolatopsis sp.,WAU86704,25.2,90.8,8.56e-11,,
+ADACJJMH_00615,maxbin.002,Tier 3,PETase,PET,Herbihabitans rhizosphaerae,WP_130342639,36.5,46.0,3.21e-10,,
+ADACJJMH_03756,maxbin.002,Tier 3,PHA depolymerase,PHA_PHB,Cupriavidus necator,CAJ97183.1,31.5,42.7,3.72e-09,,
+ADACJJMH_00392,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,26.6,68.5,2.99e-08,,
+ADACJJMH_04035,maxbin.002,Tier 3,PETase,PET,Uncultured bacterium,,26.3,87.4,9.89e-09,,
+ADACJJMH_01880,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,36.7,95.2,1.63e-09,,
+ADACJJMH_02410,maxbin.002,Tier 3,Hydrolase,PLA_PHBV_PCL_PBSA_PES_PHA,Alcanivorax borkumensis,Q0VLQ1,24.4,48.8,1.55e-07,,
+ADACJJMH_04184,maxbin.002,Tier 3,PETase,PET,Microbispora sp.,WP_232326807.1,33.1,53.1,3.39e-07,,
+ADACJJMH_03445,maxbin.002,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,26.7,69.8,2.69e-08,,
+ADACJJMH_03467,maxbin.002,Tier 3,3HV dehydrogenase,P3HV_PHBV_PHA,Paracoccus denitrificans,,33.0,34.1,1.11e-06,,
+ADACJJMH_03369,maxbin.002,Tier 3,PHB depolymerase,PHB_PHA,Bacillus thuringiensis,EAO52570.1,36.7,38.0,6.09e-07,,
+ADACJJMH_04989,maxbin.002,Tier 3,PHA depolymerase,PHA,Pseudomonas putida,AAN70570.1,24.1,84.1,6.49e-06,,
+ADACJJMH_04429,maxbin.002,Tier 3,PETase,PET,Uncultured bacterium,,32.1,50.3,8.56e-07,,
